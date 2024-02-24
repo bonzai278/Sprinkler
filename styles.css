@@ -1,0 +1,81 @@
+body {
+    background-image: url(assets/sprinkler.jpeg);
+    background-size: cover;
+}
+
+.title {
+    /* font-family: "https://fonts.googleapis.com/css2?family=Mitr&family=Roboto:ital,wght@1,700&display=swap"; */
+    font-size: 80px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-left: 200px;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+.video {
+    text-align: left;
+}
+
+.affordable {
+    font: 00px;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 100px;
+}
+
+/* h2 {
+    font-family:
+
+} */
+
+.buttonSection {
+    display: flex;
+    flex-direction: row;
+    /* color: var(green); */
+    justify-content: space-evenly;
+    padding: 20px;
+
+}
+
+p {
+    color: #FAD899;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.facebook {
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+a {
+    color: black;
+    padding: 20px 40px 20px 40px;
+    border: 1px solid;
+    border-radius: 5px;
+    font-weight: 800;
+    border-color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 200px;
+    background-color: #D69C46;
+    margin-right: 200px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+footer {
+    font-weight: bolder;
+    color: white;
+    height: 10px;
+}
